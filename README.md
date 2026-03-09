@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Bhuvaneswaran+R;AI+%7C+Developer+%7C+Problem+Solver;Building+Ideas+Into+Code;First+Year+B.Tech+AI+%26+DS+Student"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Bhuvaneswaran+R;AI+Developer+%7C+Problem+Solver;First+Year+B.Tech+AI+%26+DS;Building+Ideas+Into+Code"/>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-## 🎓 About Me
+# 🎓 About Me
 
 🎓 **First Year B.Tech – Artificial Intelligence & Data Science**
 🏫 **RMK College of Engineering and Technology (RMKCET)**
@@ -18,22 +18,22 @@
 🏆 **900+ problems solved on Skillrack**
 🏆 **1200+ problems solved on CodeTantra**
 
-🚀 Always exploring new technologies and building practical projects.
+🚀 Always learning and building new projects.
 
 ---
 
 # 🧠 Skills
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,c,python,java"/>
 </p>
 
 ---
 
 # 🛠 Tools & Platforms
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 <img src="https://img.shields.io/badge/Antigravity%20IDE-000000?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
@@ -42,12 +42,12 @@
 # 🚀 Projects
 
 🔹 **CampusCarbon**
-Platform to monitor and analyze institutional carbon footprint using structured data collection and analytics.
+Platform to monitor and analyze institutional carbon footprint using structured data collection.
 
 🔹 **Seminar Hall Booking System**
-Web platform for managing seminar hall availability and booking slots efficiently.
+Web platform to manage seminar hall availability and bookings.
 
-🔹 **More Projects Coming Soon**
+🔹 **More projects coming soon...**
 
 ---
 
@@ -55,11 +55,19 @@ Web platform for managing seminar hall availability and booking slots efficientl
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-bhuvi&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=the-bhuvi&show_icons=true&theme=tokyonight"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-bhuvi&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=the-bhuvi&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-bhuvi&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-bhuvi&theme=tokyo-night"/>
 
 ---
 
