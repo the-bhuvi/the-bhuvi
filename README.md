@@ -151,7 +151,7 @@ https://www.linkedin.com/in/bhuvaneswaran-r-bb067430b/
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=the-bhuvi&label=Profile%20Visitors&color=00ffff&style=for-the-badge"/>
 </p>
----
+
 <p align="center">
 ⭐ <b>Always Learning • Always Building • Always Improving</b>
 </p>
