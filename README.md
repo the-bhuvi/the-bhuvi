@@ -126,18 +126,14 @@ Web platform to manage seminar hall availability and bookings.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=the-bhuvi&theme=tokyo-night"/>
 
-
 ---
-
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/the-bhuvi/the-bhuvi/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
-
-
 # 🌐 Connect With Me
 
 🔗 LinkedIn
