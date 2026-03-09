@@ -2,12 +2,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Bhuvaneswaran+R;AI+Developer+%7C+Problem+Solver;First+Year+B.Tech+AI+%26+DS;Building+Ideas+Into+Code"/>
 </p>
 
-<p align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
-</p>
+
+
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=the-bhuvi&label=Profile%20Visitors&color=00ffff&style=for-the-badge"/>
+💬 <i>"You don't have to be great to start, but you have to start to be great."</i><br>
+— Zig Ziglar
 </p>
 
 <p align="center">
@@ -15,10 +15,6 @@
 — Linus Torvalds
 </p>
 
-<p align="center">
-💬 <i>"You don't have to be great to start, but you have to start to be great."</i><br>
-— Zig Ziglar
-</p>
 
 ---
 
@@ -54,6 +50,10 @@
 
 </p>
 
+---
+<p align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="650"/>
+</p>
 ---
 
 # 🧠 Skills
@@ -148,7 +148,10 @@ https://www.linkedin.com/in/bhuvaneswaran-r-bb067430b/
 [25ad023@rmkcet.ac.in](mailto:25ad023@rmkcet.ac.in)
 
 ---
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=the-bhuvi&label=Profile%20Visitors&color=00ffff&style=for-the-badge"/>
+</p>
+---
 <p align="center">
 ⭐ <b>Always Learning • Always Building • Always Improving</b>
 </p>
