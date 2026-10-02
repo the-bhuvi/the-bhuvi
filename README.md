@@ -36,16 +36,12 @@
 
 <p align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/bhuv1x/">
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://skillrack.com/">
+<a href=["https://skillrack.com/"](https://www.skillrack.com/faces/resume.xhtml?id=549000&key=234b1a15f9de1cd5a90a7c8404a3ee45fc110463)>
 <img src="https://img.shields.io/badge/Skillrack-900%2B%20Problems-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://codetantra.com/">
-<img src="https://img.shields.io/badge/CodeTantra-1200%2B%20Problems-green?style=for-the-badge"/>
 </a>
 
 </p>
@@ -124,7 +120,7 @@ Web platform to manage seminar hall availability and bookings.
 
 # 📈 Coding Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-bhuvi&theme=tokyo-night"/>
+[![LeetCode submissions](https://leetcode-stats-six.vercel.app/KnlnKS/graph)](https://github.com/KnlnKS/leetcode-stats)
 
 ---
 
