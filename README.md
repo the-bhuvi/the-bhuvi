@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href=["https://skillrack.com/"](https://www.skillrack.com/faces/resume.xhtml?id=549000&key=234b1a15f9de1cd5a90a7c8404a3ee45fc110463)>
+<a href="https://www.skillrack.com/faces/resume.xhtml?id=549000&key=234b1a15f9de1cd5a90a7c8404a3ee45fc110463">
 <img src="https://img.shields.io/badge/Skillrack-900%2B%20Problems-blue?style=for-the-badge"/>
 </a>
 
