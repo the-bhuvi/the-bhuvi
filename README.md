@@ -120,7 +120,7 @@ Web platform to manage seminar hall availability and bookings.
 
 # 📈 Coding Activity
 
-[![LeetCode submissions](https://leetcode-stats-six.vercel.app/KnlnKS/graph)](https://github.com/bhuv1x/leetcode-stats)
+[![LeetCode submissions](https://leetcode-stats-six.vercel.app/bhuv1x/graph)](https://github.com/bhuv1x/leetcode)
 
 ---
 
