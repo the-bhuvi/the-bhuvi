@@ -41,7 +41,7 @@
 </a>
 
 <a href="https://www.skillrack.com/faces/resume.xhtml?id=549000&key=234b1a15f9de1cd5a90a7c8404a3ee45fc110463">
-<img src="https://img.shields.io/badge/Skillrack-900%2B%20Problems-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skillrack-Profile-blue?style=for-the-badge"/>
 </a>
 
 </p>
@@ -120,7 +120,7 @@ Web platform to manage seminar hall availability and bookings.
 
 # 📈 Coding Activity
 
-[![LeetCode submissions](https://leetcode-stats-six.vercel.app/KnlnKS/graph)](https://github.com/KnlnKS/leetcode-stats)
+[![LeetCode submissions](https://leetcode-stats-six.vercel.app/KnlnKS/graph)](https://github.com/bhuv1x/leetcode-stats)
 
 ---
 
