@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Bhuvaneswaran+R;AI+Developer+%7C+Problem+Solver;First+Year+B.Tech+AI+%26+DS;Building+Ideas+Into+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Bhuvaneswaran+R;AI+Developer+%7C+Problem+Solver;Second+Year+B.Tech+AI+%26+DS;Building+Ideas+Into+Code"/>
 </p>
 
 
